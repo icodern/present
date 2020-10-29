@@ -129,6 +129,9 @@ input{
 }
 
 
-
+button a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
 
 }
